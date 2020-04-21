@@ -1,0 +1,6 @@
+dynadock.txt
+Created Tue 21 Apr 2020 10:49:06 AM AKDT
+Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Toshiba Dynadock USB Display
